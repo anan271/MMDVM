@@ -45,13 +45,13 @@
 // #define ARDUINO_DUE_PAPA
 
 // For the ZUM V1.0 and V1.0.1 boards pin layout
-#define ARDUINO_DUE_ZUM_V10
+// #define ARDUINO_DUE_ZUM_V10
 
 // For the SQ6POG board
 // #define STM32F1_POG
 
 // For the SP8NTH board
-// #define ARDUINO_DUE_NTH
+#define ARDUINO_DUE_NTH
 
 // For ST Nucleo-64 STM32F446RE board
 // #define STM32F4_NUCLEO_MORPHO_HEADER
